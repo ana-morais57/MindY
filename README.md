@@ -111,10 +111,12 @@ MindY consists of **two core functionalities**:
    ```bash
    python3 -m venv mindy_app_env
    source mindy_app_env/bin/activate  # On Windows, use mindy_app_env\Scripts\activate
+   ```
    
    2. **Install the dependencies**:
    ```bash
    pip install -r requirements/mindy_requirements.txt
+   ```
 
    ### 🟡 Simulating Queries (GPT Data Extraction & Clustering)
   
@@ -122,20 +124,24 @@ MindY consists of **two core functionalities**:
    ```bash
    python3 -m venv genai_env
    source genai_env/bin/activate  # On Windows, use genai_env\Scripts\activate
+   ```
 
    2. **Install the dependencies**:
    ```bash
    pip install -r requirements/genai.txt
+   ```
 
    ### 🔵 Data Analysis (Clustering & NLP Processing)
    1. **Create a virtual environment** for data analysis:
    ```bash
    python3 -m venv nlp_env
    source nlp_env/bin/activate  # On Windows, use nlp_env\Scripts\activate
+   ```
 
    2. **Install the dependencies**:
    ```bash
    pip install -r requirements/nlp.txt
+   ```
 
 ---
 
@@ -145,10 +151,12 @@ MindY consists of **two core functionalities**:
   - Activate the virtual environment for the MindY App:
   ```bash
   source mindy_app.env/bin/activate  # On Windows: mindy_app.env\Scripts\activate
+  ```
 
   - Launch the chatbot and video recommender:
   ```bash
   streamlit run app.py
+  ```
 
   ### 2️⃣ Input Queries
   - Enter a **wellness-related query** (e.g., *"How can I improve my focus?"*).
