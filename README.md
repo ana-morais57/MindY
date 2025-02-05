@@ -2,7 +2,7 @@
 
 MindY is a GPT-4 powered assistant designed to provide **personalized wellness techniques** and **top YouTube video recommendations** based on user queries.
 
-This project integrates **YouTube metadata retrieval**, **natural language processing (NLP)**, and **semantic search** to deliver actionable relaxation and mindfulness content.
+This project integrates **YouTube metadata retrieval** and **natural language processing (NLP)** with **TF-IDF vectorization** and **cosine similarity** to rank and recommend relevant relaxation and mindfulness content.
 
 ---
 
