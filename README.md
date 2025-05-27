@@ -1,4 +1,4 @@
-# 🧘 MindY - AI-Powered Mindfulness & Relaxation Assistant 🎥✨
+# 🧘 MindY - AI-Powered Wellness Assistant 🎥✨
 
 MindY is a GPT-4 powered assistant designed to provide **personalized wellness techniques** and **top YouTube video recommendations** based on user queries.
 
