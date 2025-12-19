@@ -9,7 +9,7 @@ This project integrates **YouTube metadata retrieval** and **natural language pr
 ## Context & Intent
 
 MindY was developed as part of a learning journey focused on human-centered questions around content discovery.
-Its purpose is to explore human-centered questions around how people search for and engage with mindfulness and relaxation content, rather than to deliver a production-ready tool.
+Its purpose is to explore how people search for and engage with mindfulness and relaxation content, rather than to deliver a production-ready tool.
 
 The project focuses on experimentation, reflection, and design considerations, with attention to language, intent, and ethical use of technology in wellbeing contexts.
 
