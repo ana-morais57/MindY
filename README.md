@@ -1,6 +1,6 @@
-# 🧘 MindY - AI-Powered Wellness Assistant 🎥✨
+# 🧘 MindY - Human-Centered Exploration of Mindfulness Content Discovery 🎥✨
 
-MindY is a GPT-4 powered assistant designed to provide **personalized wellness techniques** and **top YouTube video recommendations** based on user queries.
+MindY is a concept and exploration project that examines how people search for and engage with mindfulness and relaxation content. It uses natural language processing and information retrieval techniques as a lens to explore personalization, language, and user intent, rather than to deliver a production-ready wellness tool.
 
 This project integrates **YouTube metadata retrieval** and **natural language processing (NLP)** with **TF-IDF vectorization** and **cosine similarity** to rank and recommend relevant relaxation and mindfulness content.
 
@@ -8,7 +8,7 @@ This project integrates **YouTube metadata retrieval** and **natural language pr
 
 ## Context & Intent
 
-MindY is a concept and exploration project developed as part of a learning journey.
+MindY was developed as part of a learning journey focused on human-centered questions around content discovery.
 Its purpose is to explore human-centered questions around how people search for and engage with mindfulness and relaxation content, rather than to deliver a production-ready tool.
 
 The project focuses on experimentation, reflection, and design considerations, with attention to language, intent, and ethical use of technology in wellbeing contexts.
